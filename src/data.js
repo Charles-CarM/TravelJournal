@@ -1,3 +1,4 @@
+
 export default [
   {
       title: "JieFangBei",
@@ -6,9 +7,8 @@ export default [
       startDate: "1 Mar, 2018",
       endDate: "27 Feb, 2019",
       description: "Chongqing is located in southwestern China within Sichuan Province and shares borders with Shaanxi, Hunan, and Guizhou provinces. The city is known as being an important economic center along the Yangtze River as well as a historical and cultural center for the country of China.",
-      imageUrl: "https://unsplash.com/photos/pe51lcED4tA"
-  }
-
+      imageUrl: "https://unsplash.com/photos/pe51lcED4tA",
+  },
   {
     title: "White Temple",
     location: "Mandalay, Myanmar",
@@ -16,9 +16,8 @@ export default [
     startDate: "5 Feb, 2020",
     endDate: "6 Feb, 2020",
     description: "The construction of the White Temple is really something to behold. I can honestly say I’ve never seen anything like it. The temple has seven layers, each representing one of the seven mountain ranges that is said to surround Mount Meru, the center of the Buddhist Universe.",
-    imageUrl: "https://unsplash.com/photos/FsGmte1_gUA"
-}
-
+    imageUrl: "https://unsplash.com/photos/FsGmte1_gUA",
+},
 {
   title: "Train through Hanoi",
   location: "Hanoi, Vietnam",
@@ -26,6 +25,6 @@ export default [
   startDate: "15 Jan, 2020",
   endDate: "25 Jan, 2020",
   description: "Hanoi is the most graceful, atmospheric and captivating capital city of  Vietnam.It is a must – see attraction when you want to visit Vietnam. Throughout the thousand years of its eventful history, marked by destruction, wars and natural calamities, Hanoi still preserves many ancient architectural works including the Old Quarter and over 600 old pagodas and temples.",
-  imageUrl: "https://unsplash.com/photos/lBE-xnnC6OI"
+  imageUrl: "https://unsplash.com/photos/IlZDZiRA6PM",
 }
 ]

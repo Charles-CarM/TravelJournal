@@ -1,7 +1,8 @@
 import React from "react"
 import Card from "./Card"
 import Navbar from "./Navbar"
-//import data from "./data.js"
+import data from "./data.js"
+import { propTypes } from "react-bootstrap/esm/Image"
 
 export default function App() {
   const cardData = data.map( cards => {
